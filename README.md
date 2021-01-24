@@ -1,2 +1,2 @@
 # Lake-Titicaca.github.io
-#我在尝试建一个跳转网站
+#这是一个域名中转站
